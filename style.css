@@ -1,0 +1,36 @@
+body {
+    background-color: bisque;
+    color: #444;
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 800px;
+    background-color: #fff;
+    padding: 2em;
+    box-shadow: 0 0 50px rgba(0, 0, 0, .1);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 1px solid currentColor;
+}
+
+h3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 i {
+    font-size: 0.8em;
+}
+
+.contact {
+    font-size: .9em;
+    text-align: center;
+}
